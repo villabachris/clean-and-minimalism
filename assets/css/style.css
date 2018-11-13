@@ -7,7 +7,7 @@
 	
 }
 .container{
-	background-color:#C4D0D9;
+	background-color:#E9EDF1;
 }
 
 .page{
@@ -27,14 +27,22 @@
 }
 ul{
 	list-style: none;
+	/*text-decoration: none;*/
+}
+ul>li{
+	background-color: #8D6878;
+	margin: 5px;
+}
+a{
 	text-decoration: none;
+	color: #f2f2f2;
 }
 
 .sidebar{
 
 	line-height: 50px;
 	text-align: center;
-	color:#f2f2f2;
+	color:#230914;
 	height: 300px;
 	width: 200px;
 	float: left;
